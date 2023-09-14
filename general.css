@@ -1,0 +1,49 @@
+body {
+  background-color: white;
+  margin: 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.blok {
+  background-color: rgb(238, 238, 238);
+  height: 15px;
+  width: 100%;
+}
+
+.blok-mini {
+  height: 0.5px;
+  width: 100%;
+  background-color:rgba(73, 72, 72, 0.254);
+}
+
+@media (min-width: 900px) {
+  .bovenkant,
+  .bezorgadres,
+  .afzender,
+  .ordernummer,
+  .gegevens {
+    width: 500px;
+    zoom: 130%;
+    margin: auto;
+  }
+
+  .header {
+    zoom: 150%;
+  }
+}
+
+@media (min-width: 545px) and (max-width: 899px) {
+  .bovenkant,
+  .bezorgadres,
+  .afzender,
+  .ordernummer,
+  .gegevens {
+    width: 500px;
+    zoom: 150%;
+    margin: auto;
+  }
+
+  .header {
+    zoom: 150%;
+  }
+}

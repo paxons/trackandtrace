@@ -1,0 +1,47 @@
+.update-een,
+.update-twee {
+  padding-left: 15px;
+}
+
+.update-een {
+  font-size: 15px;
+  padding-top: 10px;
+}
+
+.update-twee {
+  color: darkblue;
+  font-size: 18px;
+}
+
+.update-foto {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+
+.info {
+  height: 70px;
+  vertical-align: auto;
+}
+
+.links {
+  width: 50px;
+  height: 40px;
+  float: left;
+}
+
+.info-foto {
+  height: 40px;
+  width: 40px;
+  padding-left: 5px;
+  margin-top: 12px;
+}
+
+.rechts {
+  height: 50px;
+  font-size: 13px;
+  font-weight: 200;
+  float: left;
+  width: 80%;
+  padding-left: 10px;
+}

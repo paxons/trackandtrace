@@ -1,0 +1,16 @@
+.pictogram {
+  width: 40px;
+  height: 40px;
+  margin-left: 5px;
+  margin-top: 25px;
+}
+
+.titel {
+  font-weight: 300;
+}
+
+.bezorgadres {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  height: 85px;
+}
